@@ -1,6 +1,6 @@
 {
-  "version": "v7.11.0.705590205 (33)",
-  "versionCode": 33,
-  "zipUrl": "https://github.com/aayushgakhar/revanced-magisk-module/releases/download/33/googlephotos-revanced-magisk-v7.11.0.705590205-arm-v7a.zip",
+  "version": "v7.28.0.754713439 (patches: 5.23.0)",
+  "versionCode": 62,
+  "zipUrl": "https://github.com/aayushgakhar/revanced-magisk-module/releases/download/62/googlephotos-revanced-magisk-v7.28.0.754713439-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/aayushgakhar/revanced-magisk-module/update/build.md"
 }
