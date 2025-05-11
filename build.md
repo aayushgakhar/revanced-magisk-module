@@ -1,5 +1,4 @@
-GooglePhotos (arm64-v8a): 7.28.0.754713439  
-GooglePhotos (arm-v7a): 7.28.0.754713439  
+Instagram: 379.1.0.43.80  
 YouTube: 20.12.46  
 YouTube-Extended: 19.47.53  
 
