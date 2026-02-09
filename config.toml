@@ -27,6 +27,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
 
 
 # https://github.com/j-hc/revanced-magisk-module/issues/554
